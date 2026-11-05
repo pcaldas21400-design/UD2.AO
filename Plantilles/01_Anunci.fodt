@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" office:version="1.3">
-  <office:body>
-    <office:text>
-      <text:p>ANUNCI - Ajuntament de Maó - Termini de matriculació cursos Escola Municipal (Ceràmica, Música, Dibuix). Obre aquest fitxer amb LibreOffice i desa com a .odt. Contingut complet generat amb estils, capçaleres i peus de pàgina.</text:p>
-    </office:text>
-  </office:body>
-</office:document>
+<office:body><office:text>
+<text:p text:style-name="Titol">ANUNCI</text:p>
+<text:p>Ajuntament de Maó – Obertura del termini de matriculació als cursos de l'Escola Municipal de Maó (Ceràmica, Música, Dibuix).</text:p>
+<text:p>Maó, 5 de novembre de 2026</text:p>
+<text:p>L'Ajuntament de Maó informa la ciutadania que queda obert el termini de matriculació per als cursos de l'Escola Municipal de Maó corresponents al curs 2026-2027.</text:p>
+<text:p>Cursos oferts: Ceràmica (iniciació, mitjà i avançat); Música (llenguatge musical, instrument i cor); Dibuix i pintura (tècniques diverses).</text:p>
+<text:p>El termini finalitza el 30 de novembre de 2026. Sol·licituds telemàtiques (Carpeta Ciutadana / www.ajmao.org) o presencials al Claustre del Carme amb cita prèvia (971 36 20 21).</text:p>
+<text:p>Places limitades. Admissió per rigorós ordre de presentació.</text:p>
+<text:p>________________________________</text:p>
+<text:p>L'Alcalde / La Regidora d'Educació – Ajuntament de Maó</text:p>
+</office:text></office:body></office:document>

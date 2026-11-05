@@ -1,2 +1,2 @@
-# Script generador - veure el repositori per al contingut complet
-print('Veure fitxer complet al repositori')
+# Repositori netejat
+# El contingut generat anteriorment ha estat eliminat a petició de l'usuari.
